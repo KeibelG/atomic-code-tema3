@@ -1,0 +1,11 @@
+# Archivos generados por Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
